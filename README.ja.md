@@ -6,8 +6,6 @@
 
 # デモ
 
-![demo](https://github.com/ytyaru/Shell.LibreOffice.Calc.Macro.Python.20200925123834/blob/master/doc/run0.png?raw=true)  
-![demo](https://github.com/ytyaru/Shell.LibreOffice.Calc.Macro.Python.20200925123834/blob/master/doc/run1.png?raw=true)  
 ![demo](https://github.com/ytyaru/Shell.LibreOffice.Calc.Macro.Python.20200925123834/blob/master/doc/run2.png?raw=true)  
 
 # 開発環境
@@ -43,7 +41,7 @@ cd Shell.LibreOffice.Calc.Macro.Python.20200925123834/src
 3. ツリーから`マイマクロ`→`hello_uno`→`hello`を開く  
 4. `実行`ボタンをクリックする  
 ![demo](https://github.com/ytyaru/Shell.LibreOffice.Calc.Macro.Python.20200925123834/blob/master/doc/run1.png?raw=true)  
-5. `Sheet1`の`A1`に`999`が入力される
+5. `Sheet1`の`A1`に`999`が入力される  
 ![demo](https://github.com/ytyaru/Shell.LibreOffice.Calc.Macro.Python.20200925123834/blob/master/doc/run2.png?raw=true)  
 
 ## セキュリティを「中」にする

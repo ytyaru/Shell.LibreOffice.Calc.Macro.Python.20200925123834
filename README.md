@@ -6,8 +6,6 @@ Write Python macros in LibreOffice Calc.
 
 # DEMO
 
-![demo](https://github.com/ytyaru/Shell.LibreOffice.Calc.Macro.Python.20200925123834/blob/master/doc/run0.png?raw=true)  
-![demo](https://github.com/ytyaru/Shell.LibreOffice.Calc.Macro.Python.20200925123834/blob/master/doc/run1.png?raw=true)  
 ![demo](https://github.com/ytyaru/Shell.LibreOffice.Calc.Macro.Python.20200925123834/blob/master/doc/run2.png?raw=true)  
 
 # Requirement
@@ -38,12 +36,12 @@ cd Shell.LibreOffice.Calc.Macro.Python.20200925123834/src
 ```
 
 1. Start LibreOffice Calc
-2. Click Menu → `Tools`→`Macros`→ `Manage Macros`→`Python`
-![demo](https://github.com/ytyaru/Shell.LibreOffice.Calc.Macro.Python.20200925123834/blob/master/doc/run0.png?raw=true)
+2. Click Menu → `Tools`→`Macros`→ `Manage Macros`→`Python`  
+![demo](https://github.com/ytyaru/Shell.LibreOffice.Calc.Macro.Python.20200925123834/blob/master/doc/run0.png?raw=true)  
 3. Open `My Macro`→`hello_uno`→`hello` from the tree
-4. Click the `Run` button
-![demo](https://github.com/ytyaru/Shell.LibreOffice.Calc.Macro.Python.20200925123834/blob/master/doc/run1.png?raw=true)
-5. `999` is entered in` A1` of `Sheet1`
+4. Click the `Run` button  
+![demo](https://github.com/ytyaru/Shell.LibreOffice.Calc.Macro.Python.20200925123834/blob/master/doc/run1.png?raw=true)  
+5. `999` is entered in` A1` of `Sheet1`  
 ![demo](https://github.com/ytyaru/Shell.LibreOffice.Calc.Macro.Python.20200925123834/blob/master/doc/run2.png?raw=true)
 
 ## Set security to "medium"
